@@ -1,0 +1,196 @@
+{
+
+margin: 0%;
+padding: 0%;
+
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding:6;
+    margin-top: 11px;
+    color: white;
+    background-color: rgb(48, 48, 87) ;
+    font-family: Roboto,sans-serif;
+    
+}
+.fnav .left{
+    display: flex;
+    margin-top: 10px;
+}
+
+.left img{
+    width: 20%;
+    height: 80%;
+
+}
+
+.left input{
+    margin-inline: 11px;
+    width: 320px;
+    height: 33px;
+    border: none;
+    outline: none;
+    text-align: center;
+    margin-top: 16px;
+    border-radius: 20px;
+
+}
+
+
+
+.fnav .right{
+display:flex;
+margin-top: 18px;
+
+}
+
+.right p{
+    margin-inline: 22px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: Roboto,sans-serif;
+    
+
+}
+
+.right button{
+    margin-inline: 22px;
+    width: 80px;
+    height: 27px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(244, 69, 98);
+}
+
+.right i{
+    margin-inline: 22px;
+    font-size: 22px;
+}
+
+.right button{
+
+    margin-inline: 22px;
+    font-size: 15px;
+
+}
+
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 9px;
+    background-color: rgb(26, 26,48);
+    color: white;
+
+}
+
+.sec-nav .s-left{
+    display: flex;
+    gap: 20px;
+    font-family: Roboto,sans-serif;
+}
+
+.sec-nav .s-right{
+    display: flex;
+    gap: 20px;
+    font-family: Roboto,sans-serif;
+}
+
+.sec-nav p:hover{
+    color: rgb(245, 70, 99);
+    cursor: pointer;
+    font-weight: 600;
+}
+
+s.left p{
+    margin: inline start 18px;
+
+}
+
+s.right p{
+    margin: inline start 18px;
+    
+}
+
+.main img{
+    width: 100%;
+}
+
+.container h2{
+    text-align: center;
+    padding: 22px;
+}
+
+
+
+
+.container .Card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+.container .Card img{
+    width: 15%;
+    margin-block: 15px;
+    border-radius: 8px;
+ 
+}
+.banner img{
+    width: 100%;
+}
+
+.premiere{
+    background-color: rgb(8,8,19);
+    color:white;
+    padding: 5px;
+    margin-top: 30px;
+}
+.premiere h2{
+    margin-top: -10px;
+    margin-right: 800px;
+}
+.container h2{
+    margin-right: 900px;
+
+}
+
+.container.Card{
+    margin-top: 11px;
+}
+
+.footer{
+    background-color: gray;
+    padding: 33px;
+    margin-top: 44px;
+}
+
+.footer img{
+    width: 22%;
+    margin-left: 36%;
+    border-top: 2px solid grey;
+}
+
+.container .icon{
+display: flex;
+text-align: center;
+justify-content: center;
+justify-content: space-around;
+
+}
+
+.icon i{
+    
+    font-size: 36px;
+
+}
+
+.icon i:hover{
+    color: rgb(245, 70, 99);
+    cursor: pointer;
+    font-weight: 600;
+}
+
